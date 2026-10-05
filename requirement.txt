@@ -1,0 +1,4 @@
+pkg update
+pkg install python
+pip install --upgrade pip
+pip install python-telegram-bot telethon
