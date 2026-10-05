@@ -1,4 +1,2 @@
-pkg update
-pkg install python
-pip install --upgrade pip
-pip install python-telegram-bot telethon
+python-telegram-bot>=22.0
+telethon>=1.42.0
