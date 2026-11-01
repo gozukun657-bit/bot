@@ -14,9 +14,9 @@ from telethon.sessions import StringSession
 import logging
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "8755704384:AAGYg8n9swQgJw_uPKmTvjP_jpUPpoSEalk"
-API_ID = 36787208
-API_HASH = "55d052804757ee64d2cbee33a8e0e45e"
+BOT_TOKEN = "9298758961:AAFbbHI9vqeGqxN2nndgb0GCF0BY5WtimTM"
+API_ID = 27157163
+API_HASH = "e0145db12519b08e1d2f5628e2db18c4"
 
 # ADMIN IDS (Sirf inko admin panel dikhega)
 ADMIN_IDS = [5795892915]
